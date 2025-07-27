@@ -1,0 +1,10 @@
+pandas==1.5.3
+numpy==1.24.2
+scikit-learn==1.2.2
+xgboost==1.7.5
+imbalanced-learn==0.10.1
+kafka-python==2.0.2
+flask==2.2.3
+python-dotenv==1.0.0
+joblib==1.2.0
+matplotlib==3.7.1
